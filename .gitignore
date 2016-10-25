@@ -22,3 +22,13 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+.DS_Store
+
+tmp
+gin-bin
+
+/bin
+/vendor/pkg
+/vendor/bin
+/local/config.json

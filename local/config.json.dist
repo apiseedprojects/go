@@ -1,0 +1,5 @@
+{
+    "bind_address": "0.0.0.0:3001",
+    "db_connection_string": "root@tcp(127.0.0.1:3306)/apiseedproject?parseTime=true",
+    "jwt_signing_key": "7e4d827a-9974-11e6-86da-6476baa7c522"
+}
