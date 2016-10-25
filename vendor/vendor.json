@@ -71,10 +71,10 @@
 			"revisionTime": "2016-02-19T21:45:06Z"
 		},
 		{
-			"checksumSHA1": "tbZJqiJRFRCZcdGYDBYrHAT/Lfc=",
+			"checksumSHA1": "NlT+7VTI13QSjANs7tz3P5Ae0vE=",
 			"path": "github.com/go-sql-driver/mysql",
-			"revision": "dbc3fe23a4aced10a53834106e288b155d17e2ee",
-			"revisionTime": "2016-10-20T10:29:09Z"
+			"revision": "1983bc3dfe6926f139ae8e95db54c3a6ee28518e",
+			"revisionTime": "2016-10-25T15:58:28Z"
 		},
 		{
 			"checksumSHA1": "d22rgDYcZ/l1RPHtCokJRHAh0QI=",
@@ -323,8 +323,8 @@
 		{
 			"checksumSHA1": "Tgu4aZokVOcn5MgZQbPauSBNVLw=",
 			"path": "golang.org/x/crypto/md4",
-			"revision": "1150b8bd09e53aea1d415621adae9bad665061a1",
-			"revisionTime": "2016-10-21T22:59:10Z"
+			"revision": "ca7e7f10cb9fd9c1a6ff7f60436c086d73714180",
+			"revisionTime": "2016-10-25T12:52:55Z"
 		},
 		{
 			"checksumSHA1": "88lxkrVVZyBqOBOFnNMBwEexiLY=",
